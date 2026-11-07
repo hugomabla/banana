@@ -1,0 +1,4 @@
+ <svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="0.5" opacity="0.1">
+   <path d="M0 60V0H60" />
+   <path d="M30 0V60M0 30H60" />
+ </svg>
